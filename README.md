@@ -1,3 +1,3 @@
-## JavaScript Guide App version 1.2
+## JavaScript Guide App version 1.3
 
 ### Welcome to my Repo
