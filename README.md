@@ -1,5 +1,5 @@
-## JavaScript Guide App version 1.7
+## JavaScript Guide App version 1.9
 
 ### Welcome to my Repo
 
-Updated version number 1.6 to 1.7
+Updated version number 1.6 to 1.9
